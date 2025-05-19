@@ -13,8 +13,10 @@ a:hover {
 	color: white;
 }
 
-.container-fluid {
-	background-color: 
+.container {
+	background-color: red;
+	color: whitesmoke;
+	font-family: Sour Gummy;
 		}
 
 .navbar-collapse {
