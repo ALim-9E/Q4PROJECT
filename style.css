@@ -14,14 +14,26 @@ a:hover {
 }
 
 .container {
-	background-color: red;
+	background-color: indianred;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
 	color: whitesmoke;
 	font-family: Sour Gummy;
 		}
 
 .hero-image {
-	margin-left: 30px;
-	margin-right: 30px;
-	padding: 5.5 px;
+	background-color: white;
+	color: black;
+	padding-left: 400px;
+	padding-top: 15.5px;
+	padding-bottom: 15.5px;
+	margin-left: 15.5px;
+	margin-right: 15.5px;
+	padding: 10.5 px;
 }
 
+.quarters {
+	
+}
