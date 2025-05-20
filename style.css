@@ -23,8 +23,6 @@ a:hover {
 	font-family: Sour Gummy;
 		}
 
-/*Oscar please put a different container name for div class container, the ict thing and the avatars are kinda close...*/
-
 .hero-image {
 	background-color: white;
 	color: black;
@@ -37,5 +35,18 @@ a:hover {
 }
 
 .quarters {
-	
+
+}
+
+.btn-secondary {
+	background-color: lightpink;
+	border-color: orangered;
+	color: orangered;
+	border-radius: 20px;
+}
+
+.btn-secondary:hover {
+	background-color: darkblue;
+	color: lightyellow;
+	border-color: royalblue;
 }
