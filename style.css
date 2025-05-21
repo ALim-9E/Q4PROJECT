@@ -26,13 +26,10 @@ a:hover {
 .hero-image {
 	background-color: white;
 	color: black;
-	padding-left: 400px;
-	padding-top: 15.5px;
-	padding-bottom: 15.5px;
-	margin-left: 15.5px;
-	margin-right: 15.5px;
-	padding: 10.5 px;
+	padding: 30px 15px;
+	margin: 15px;
 }
+
 
 .quarters {
 
@@ -46,7 +43,7 @@ a:hover {
 }
 
 .btn-secondary:hover {
-	background-color: darkblue;
+	background-color: rgb(139, 0, 0);
 	color: lightyellow;
-	border-color: royalblue;
+	border-color: rgb(225, 65, 65);
 }
