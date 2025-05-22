@@ -3,6 +3,11 @@ body {
 	
 }
 
+.card {
+	display: inline-block;
+	width: 17vw;
+}
+
 a {
 	text-decoration: none;
 	color: white;
