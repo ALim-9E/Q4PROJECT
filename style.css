@@ -3,10 +3,9 @@ body {
 	
 }
 
-.card {
-	display: inline-block;
-	width: 17vw;
-}
+.card {display: flex;}
+.column {flex: 20%;
+	padding: 8px;}
 
 a {
 	text-decoration: none;
