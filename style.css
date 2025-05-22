@@ -3,9 +3,14 @@ body {
 	
 }
 
-.card {display: flex;}
+.row {display: flex;}
 .column {flex: 20%;
 	padding: 8px;}
+
+.column img {
+	display: block;
+	width: 90%;
+}
 
 a {
 	text-decoration: none;
@@ -32,6 +37,7 @@ a:hover {
 	color: black;
 	padding: 30px 15px;
 	margin: 15px;
+	text-align: center;
 }
 
 
