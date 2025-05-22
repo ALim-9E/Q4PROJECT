@@ -3,13 +3,14 @@ body {
 	
 }
 
-.row {display: flex;}
-.column {flex: 20%;
+.column {float: left;
+	 width: 20%;
 	padding: 8px;}
 
-.column img {
-	display: block;
-	width: 90%;
+.row::after {
+	content: "";
+	clear: both;
+	display: table;
 }
 
 a {
@@ -40,10 +41,6 @@ a:hover {
 	text-align: center;
 }
 
-
-.quarters {
-
-}
 
 .btn-secondary {
 	background-color: lightpink;
