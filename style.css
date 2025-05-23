@@ -48,3 +48,9 @@ a:hover {
 	color: lightyellow;
 	border-color: rgb(225, 65, 65);
 }
+
+.card-img-top mx-auto d-block img-fluid mt-3 mb-3 {
+	max-width: 50px;
+	max-height: 50px;
+	align: right; 
+}
